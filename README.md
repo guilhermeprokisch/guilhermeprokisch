@@ -1,5 +1,5 @@
 # Hi, I'm Guilherme 👋👨🏻‍💻
-I'm pasionate for mathematics, statistics and sofware development. Some technologies I enjoy working with include Python, ReactJS, Angular, Jamstack (JavaScript/Typescript) and GraphQL.  
+I passionate for mathematics, statistics and sofware development. Some technologies I enjoy working with include Python, ReactJS, Angular, Jamstack (JavaScript/Typescript) and GraphQL.  
  
 ----
 
