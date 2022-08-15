@@ -4,3 +4,5 @@
 
 
 'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. 
+
+[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermeprokisch)](https://github.com/guilhermeprokisch/github-readme-stats)
