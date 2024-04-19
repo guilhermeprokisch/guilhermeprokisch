@@ -3,8 +3,6 @@ I'm passionate for mathematics, sofware development and statistics.
  
 ----
 
-![gh-header-image-cropped](https://user-images.githubusercontent.com/12011070/184651527-9a60733c-d92b-4a11-af2b-a7883d14af67.png) 
-
 
 
 [![ GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermeprokisch)](https://github.com/guilhermeprokisch/github-readme-stats)
