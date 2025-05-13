@@ -1,7 +1,4 @@
 # Hi, I'm Guilherme 👋👨🏻‍💻
-I'm passionate for mathematics, sofware development and statistics.
-
-
 ---
 ### My Fav Tools
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
